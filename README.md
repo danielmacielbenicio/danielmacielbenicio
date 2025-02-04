@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sup yo! My name is Daniel and i live in São Paulo, Brazil. I like to code, design and experience new languages.</p>
+<p align="center">Sup yo! My name is Daniel and i live in São Paulo, Brazil. I like to code, design and experience new languages.</p>
 
 ###
 
