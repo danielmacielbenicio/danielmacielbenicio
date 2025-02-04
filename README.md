@@ -42,6 +42,12 @@
   <a href="https://www.linkedin.com/in/daniel-maciel-benicio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div> 
+
+###
+
+<div align="center">
+  <img  height="140" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
 </div>
 
 ###
@@ -50,9 +56,4 @@
 
 <img src="https://raw.githubusercontent.com/danielmacielbenicio/danielmacielbenicio/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img  height="280" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
-</div>
 ###
