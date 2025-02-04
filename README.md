@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-maciel-ben%25C3%25ADcio-02a903283%2F)
+<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniel-maciel-ben%25C3%25ADcio-02a903283%2F">
 
 <!--
 **danielmacielbenicio/danielmacielbenicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
