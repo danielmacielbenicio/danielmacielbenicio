@@ -1,4 +1,4 @@
-<h2 align="left">Salve!</h2>
+<h2 align="center">Salve!</h2>
 
 ###
 
