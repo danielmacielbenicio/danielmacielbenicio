@@ -14,11 +14,10 @@
 </div>
 
 ###
-<div align="center">
 <br clear="both">
 
+<div align="center">
 <img align="left" height="120" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="27" />
