@@ -16,8 +16,9 @@
 ###
 <br clear="both">
 
-<p align="center">
+  <p align="center">
 <img align="left" height="120" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
+  </p>
 <div align="center">
   <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img  align="center" width="27" />
@@ -27,8 +28,6 @@
   <img width="27" />
   <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
 </div>
-</p>
-
 ###
 
 <br clear="both">
