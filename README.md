@@ -1,8 +1,8 @@
-<h2 align="center">Salve!</h2>
+<h2 align="left">Salve!</h2>
 
 ###
 
-<p align="center">Sup yo! My name is Daniel and i live in São Paulo, Brazil. I like to code, design and experience new languages.</p>
+<p align="left">Sup yo! My name is Daniel and i live in São Paulo, Brazil. I like to code, design and experience new languages.</p>
 
 ###
 
@@ -17,7 +17,25 @@
 
 <br clear="both">
 
-<div align="center">
+<img align="left" height="120" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
   <a href="https://www.youtube.com/@dr4ko_aep" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=242424&logoColor=white&labelColor=FF0000&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -30,21 +48,12 @@
   <a href="https://www.linkedin.com/in/daniel-maciel-benicio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div> 
+</div>
 
 ###
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <br clear="both"> 
-  <div align="center">
-  <img  height="210" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
-</div>
-</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/danielmacielbenicio/danielmacielbenicio/output/snake.svg" alt="Snake animation" />
 
 ###
