@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <a href="https://www.youtube.com/@dr4ko_aep" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=242424&logoColor=white&labelColor=FF0000&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
