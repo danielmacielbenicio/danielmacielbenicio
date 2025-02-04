@@ -16,6 +16,12 @@
 ###
 
 <div align="center">
+  <img  height="140" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
@@ -43,11 +49,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div> 
-
-###
-
-<div align="center">
-  <img  height="140" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
-</div>
 
 ###
