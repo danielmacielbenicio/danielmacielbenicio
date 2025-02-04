@@ -52,7 +52,7 @@
 
 ###
 
-
-<img align="center" height="280" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
-
+<div align="center">
+  <img  height="280" src="https://preview.redd.it/cl4fv9a7nk081.jpg?width=725&format=pjpg&auto=webp&s=38ec4b516f60c5b603825c09e70e4b5c45beb776"  />
+</div>
 ###
