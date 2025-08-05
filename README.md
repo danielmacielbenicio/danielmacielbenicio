@@ -9,7 +9,7 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
-###
+##
 
 <div align="center">
 
@@ -19,17 +19,15 @@
 <img width="27"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"/>
 <img width="27">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"/>
 <img width="27" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"/>
 
 
 
 
 
 </div>
-
-###
 
 ## Sobre
 
