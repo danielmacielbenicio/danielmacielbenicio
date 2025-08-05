@@ -1,42 +1,24 @@
-<h2 align="left">Hello There!</h2>
+<h1 align="center">Daniel Maciel Benício</h1>
 
-###
+<p align="center">
+  Dev · TI · Design
+</p>
 
-<p align="left">Sup yo! My name is Daniel and i live in São Paulo, Brazil. I like to code, design and experience new languages.</p>
+---
 
-###
+![](./profile-3d-contrib/profile-gitblock.svg)
 
-<br clear="both">
+---
 
-<div align="center">
+## Sobre
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmacielbenicio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- Atualmente cursando Análise e Desenvolvimento de Sistemas
+- SENAI Suíço-Brasileira
 
-###
-<br clear="both">
+## Contato
 
-  <div align="center">
-<img align="center" height="160" src="https://animereviewsin.wordpress.com/wp-content/uploads/2020/10/screencapture-www-viz-com-shonenjump-one-piece-chapter-992-chapter-21372-1603306779756.jpg?w=1200"  />
-  </div>
+- [LinkedIn](https://www.linkedin.com/in/daniel-maciel-benicio/)
+- [Portfólio](Em construção - em breve...)
+- [Instagram - Daniel](https://www.instagram.com/danxzs._)
 
-###
-<div align="center">
-  <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img  align="center" width="27" />
-  <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="27" />
-  <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="27" />
-  <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-###
-
-<br clear="both">
-
-###
+---
