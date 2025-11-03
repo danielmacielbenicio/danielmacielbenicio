@@ -27,6 +27,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="javascript logo" />
 <img width="27"/>
 <br>
+<br>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="45" alt="javascript logo" />
 <img width="27"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="45" alt="javascript logo" />
