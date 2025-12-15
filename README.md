@@ -40,6 +40,7 @@
 
 - Atualmente cursando Análise e Desenvolvimento de Sistemas
 - SENAI Suíço-Brasileira
+- Dev / Java - Spring Boot
 
 ## Contato
 
